@@ -1,3 +1,5 @@
+[![An image of @tusharprajapat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharprajapat)](https://holopin.io/@tusharprajapat)
+
 # 👋 Hi, I'm Tushar Prajapat!
 
 I'm a final-year **B.Tech Computer Science** student passionate about building scalable web applications and solving real-world problems through technology. As a dedicated Full Stack Developer, I thrive on learning new tools and frameworks, always aiming to grow as a software engineer and contribute innovative solutions to the tech industry.
