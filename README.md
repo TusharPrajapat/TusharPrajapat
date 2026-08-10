@@ -2,7 +2,7 @@
 
 <!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Tushar%20Prajapat&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20DevOps%20•%20AI/ML%20&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Tushar%20Prajapat&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20•%20DevOps%20•%20AI/ML%20&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <div align="center">
