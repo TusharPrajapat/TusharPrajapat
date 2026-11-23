@@ -16,17 +16,17 @@
 
 # 👋 Hi, I'm Tushar Prajapat
 
-### Backend Developer | DevOps Enthusiast | AI/ML Explorer
+### 💻 Backend Developer | 🌐 Distributed Systems | ☁️ DevOps | 🤖 AI/ML
 
-Building reliable backend systems, scalable APIs, and exploring cloud infrastructure.
+**Building scalable backend systems, exploring distributed architectures, automating infrastructure, and integrating AI into real-world applications.**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/tushar-prajapat-256486302/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:tusharprajapat41@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
