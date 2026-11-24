@@ -106,6 +106,21 @@ philosophy: "Build. Learn. Improve. Repeat."
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
+### 🤖 AI/ML & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JupyterLab-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-AI%20Engineering-8E44AD?style=flat" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-2E8B57?style=flat" />
+</p>
+
 ### 🎨 Frontend
 
 <p>
@@ -126,6 +141,7 @@ philosophy: "Build. Learn. Improve. Repeat."
 | AI Engineering | LLM integrations and AI-powered applications |
 
 ---
+
 
 ## 📊 GitHub Stats
 
